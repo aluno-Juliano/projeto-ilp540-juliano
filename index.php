@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="css/tela_inicial.css">
     <title>BARBER SHOP!</title>
   </head>
-  <body>
+  <body>  
     <div class="rounded">
       <img src="img/image1.jpg" class="rounded" alt="..."><br>
       <p class="h1">BARBER SHOP</p><br>
